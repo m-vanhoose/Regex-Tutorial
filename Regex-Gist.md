@@ -1,4 +1,4 @@
-# Title (replace with your title)
+# Regular Expressions
 
 Introductory paragraph (replace this with your text)
 
@@ -37,4 +37,4 @@ Briefly summarize the regex you will be describing and what you will explain. In
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+As of now I am a Fullstack Web Development Bootcamp student hoping to pave my way through this life. Check out my github account [here](https://github.com/m-vanhoose "github account").
